@@ -1,4 +1,4 @@
-## Study Case 2 Exploring NYC Public School Test  
+# Study Case 2 Exploring NYC Public School Test  
 
 <br>
 
