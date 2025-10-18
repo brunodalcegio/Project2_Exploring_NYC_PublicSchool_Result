@@ -10,6 +10,7 @@ You have been provided with a dataset called `schools.csv`, which is previewed b
 
 You have been tasked with answering three key questions about New York City (NYC) public school SAT `performance.`
 
+<br>
 
 ### Which NYC schools have the best math results?
 
